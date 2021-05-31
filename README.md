@@ -1,2 +1,2 @@
 # artifacts
-Files for Moeing Chain
+Files for smartBCH
