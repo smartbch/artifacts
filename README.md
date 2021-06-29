@@ -1,2 +1,2 @@
-# artifacts
+# Artifacts
 Files for smartBCH
