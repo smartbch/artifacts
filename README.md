@@ -1,2 +1,2 @@
 # Artifacts
-Files for smartBCH
+Files for smartBCH, a sidechain of BCH
